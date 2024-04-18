@@ -1,10 +1,10 @@
 Alexander;1;Math 5,Physics 4,Chemistry 5
 Maria;2;Math 4,Physics 5,Chemistry 4
 Ivan;3;Math 3,Physics 3,Chemistry 3
-Elena;4;Math 5,Physics 5,Chemistry 5
+Alexander;4;Math 5,Physics 5,Chemistry 5
 Sergey;5;Math 4,Physics 4,Chemistry 4
-Natalia;6;Math 3,Physics 4,Chemistry 5
+Natalia;6;Math 2,Physics 2,Chemistry 2
 Vladimir;7;Math 5,Physics 3,Chemistry 4
-Olga;8;Math 4,Physics 5,Chemistry 3
+Olga;8;Physics 5,Chemistry 3
 Andrey;9;Math 3,Physics 5,Chemistry 4
 Tatyana;10;Math 5,Physics 4,Chemistry 3
